@@ -37,7 +37,7 @@ sh tools/download_checkpoints.sh
 
 ## Dataset Setup
 
-**vaihingen:** Please, download all image and label packages from [here](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-vaihingen.html)
+**Vaihingen:** Please, download all image and label packages from [here](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-vaihingen.html)
 and extract them to `data/vaihingen`.
 
 **Potsdam:** Please, download all image and label packages from
