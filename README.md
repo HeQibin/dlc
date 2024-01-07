@@ -4,6 +4,7 @@
 
 ## News
 
+- **[2024/01/07]** Update preview code.
 - **[2023/11/18]** Release preview code and pretrained models.
 <!-- - **[2023/6/2]** Release paper to arXiv.  -->
 
