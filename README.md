@@ -45,7 +45,7 @@ and extract them to `data/vaihingen`.
 [here](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-potsdam.html) and extract
 them to `data/potsdam`.
 
-**WHU-OPT_SAR (i.e., Hubei-VSI-SAR):** Please, download all image and label packages from
+**Hubei-VSI-SAR** Please, download all image and label packages from
 [here](https://github.com/AmberHen/WHU-OPT-SAR-dataset) and extract it to `data/whu-opt-sar`.
 
 Further, please crop all images and restructure the folders using the following commands:
@@ -151,7 +151,7 @@ Semantic segmentation performance on Vaihingen --> Potsdam IRRG.
 | Ours            | MiT-B5      | 66.33   | 54.85  | 69.48 | [checkpoint](https://drive.google.com/file/d/1MjymsqCxhx4_H4k04UXIjwtp-WYU2omR/view?usp=drive_link) |
 
 
-Semantic segmentation performance on WHU-OPT --> WHU-SAR.
+Semantic segmentation performance on HUB-VIS --> HUB-SAR.
 
 | Method          | Backbone    | mean F1 | mIoU    | mRecall | OA    | checkpoint  |
 | --------------- | ----------- | ------- | ------  | ------  | ----- | ----------- |
