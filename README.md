@@ -4,7 +4,7 @@
 
 ## News
 
-- **[2024/01/07]** Update preview code.
+- **[2024/1/7]** Update preview code.
 - **[2023/11/18]** Release preview code and pretrained models.
 <!-- - **[2023/6/2]** Release paper to arXiv.  -->
 
@@ -45,7 +45,7 @@ and extract them to `data/vaihingen`.
 [here](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-potsdam.html) and extract
 them to `data/potsdam`.
 
-**WHU-OPT_SAR (Optional):** Please, download all image and label packages from
+**WHU-OPT_SAR (i.e., Hubei-VSI-SAR):** Please, download all image and label packages from
 [here](https://github.com/AmberHen/WHU-OPT-SAR-dataset) and extract it to `data/whu-opt-sar`.
 
 Further, please crop all images and restructure the folders using the following commands:
